@@ -55,3 +55,12 @@ render :
 -fake scoreboard
 -targethud
 -trident esp
+
+
+
+why is it free ?
+-it was once paid and private but i decide to make it free after multiple raid from other client and i'll keep update it 
+
+how to use it ?
+-use minecraft 1.21.1 and use fabric api 
+-you can use it as a standalone client or as a meteor clients addons it support both
